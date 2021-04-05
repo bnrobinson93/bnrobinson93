@@ -6,7 +6,7 @@
 - Looking to become more active in Open Source, particularly web-based and C++ projects
 
 ### Connect with me:
-[<img align="left" alt="schmover.com" width="22px" src="https://schmover.com/images/icons/icon-96x96.png" />](https://schmover.com)
+[<img align="left" alt="schmover.com" width="22px" src="https://schmover.com/favicon.ico" />](https://schmover.com)
 [<img align="left" alt="Brad Robinson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/brad-robinson-88316b84)
 [<img align="left" alt="Brad Robinson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/bradtothebone_1/)
 
